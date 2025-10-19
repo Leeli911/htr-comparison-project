@@ -1,0 +1,25 @@
+# Core HTR packages
+htrflow>=0.1.0
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+pyyaml>=6.0
+
+# Evaluation metrics
+jiwer>=3.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Jupyter
+jupyter>=1.0.0
+
+# Utilities
+tqdm>=4.65.0
