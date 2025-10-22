@@ -1,0 +1,48 @@
+=== num_beams = 1 ===
+Em wy Christimam medh Guds nåde, Sweriges, räthes Wänder finnan
+Karlers Lappgers i Norrlanden uhr Kryarnas och Eders i Lifland, oDrotning, Så och
+bohren Hertigimma till Sleßwich Halson, Enkia, Lindne witterliget att
+No 7
+Dom Högborne Fürse och Herre Geer Gers Gustaf Adolph Sweriges Spöhrs och Wändes
+Vttekohöherdhe Kommigh och Arffueste Storfurste till Carlingens Hertigh till Erstland
+fl 3
+och Wäissmanneland Wår olskelige Kiäre sonn hafwer lachtet oß på åtskillig¬
+sidher förstå huruledes och på hwadh sårt hans Kt: hafwer måst giöra fridh medh
+the danske och huruledes hans Hl:r hafwer efterlåthet Konungen i Danmark
+
+=== num_beams = 2 ===
+Em wy Christinas medh Gudz nåde, Sweriges, räthes Wänder finnan
+Karlers Lappgers i Norrlanden uhr Kryarnas och Eders i Lifland, oDrotning, Så och
+bohren Hertigimma till Sleßwich Halson, Enkia, Lindne witterliget att
+No 7
+Dom Högborne Fürse och Herre Geer Gustaf Ädeligh Sweriges Spöhrs och Wändes
+Vttekohradhe konungh och Arffueste Storfurste till Carlingens Hertigh till Erstland
+fl 3
+och Wäissmanneland Wår elskelige Kiäre sonn hafwer lachtet oß på åtskillig¬
+sidher förstå huruledes och på hwadh sårt hans Kt: hafwer måst giöra fridh medh
+the danske och huruledes hans Hl:r hafwer efterlåthet Konungen i Danmark
+
+=== num_beams = 4 ===
+Em wy Christinas medh Guds nåde, Sweriges, räthes Wänder, finnars
+Karlers Lappgers i Norrlanden ähr Kryarnas och Eders i Lifland, oDrotning, Så och
+bohren Hertigimma till Sleßwich Halson, Enkia, Lindne witterliget att
+No 7
+Dom Högborne Fürse och Herre Geer, Gustaf Adolph Sweriges Spöhrs och Wändes
+Vttekohradhe Kommigh och Arffueste Storfurste till Carlingens Hertigh till Erstland
+fl 3
+och Wäissmanneland Wår elskelige Kiäre sonn hafwer lachtet oß på åtskillig¬
+sidher förstå huruledes och på hwadh hårt hans Kt: hafwer måst giöra fridh medh
+the danske och huruledes hans Hl:r hafwer efterlåthet Konungen i Danmark
+
+=== num_beams = 8 ===
+Som Wy Christinas medh Gudz nåde, Sweriges, räthes Wänder finnars
+Karlers Lappgers i Norrlanden ähr Kryarnas och Eders i Lifland, oDrotning, Så och
+bohren Hertigimma till Sleßwich Halson, Enkia, Lindne witterliget att
+No 7
+Dom Högborne Färste och Herre Geer, Gustaf Adolph Sweriges Spöhrs och Wändes
+Vttekohradhe Kommigh och Arffueste Storfurste till Carlingens Hertigh till Erstland
+fl 3
+och Wäissmanneland Wår elskelige Kiäre sonn hafwer lachtet oß på åtskillig¬
+sidher förstå huruledes och på hwadh hårt hans Kt: hafwer måst giöra fridh medh
+the danske och huruledes hans Hl:r hafwer efterlåthet Konungen i Danmark
+
