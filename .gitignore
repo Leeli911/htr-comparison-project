@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+lili_venv/
+lili_venv310/
+env/
+ENV/
+
+# Data files (large)
+data/raw/
+data/processed/
+*.JPG
+*.jpg
+*.png
+*.jpeg
+
+# Model files (large)
+models/laypa/*.pth
+models/loghi/
+models/rtmdet_lines/
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pb
+
+# Results (generated)
+results/*/text/*.txt
+results/*/pagexml/
+results/*/lines/
+results/*/page/
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Temporary test files
+tests/single_*/
+tests/batch/
+
+# OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# SLURM
+slurm-*.out
+
+# Keep evaluation summaries but not raw results
+!results/*/evaluation_results.txt
+!results/*/evaluation_results.csv

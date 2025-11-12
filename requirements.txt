@@ -1,0 +1,20 @@
+# Core dependencies
+numpy>=1.24.0
+pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+detectron2
+
+# HTR Tools
+# Note: Loghi and Laypa installed separately from source
+
+# Evaluation
+# python-Levenshtein>=0.21.0  # Optional, using pure Python implementation
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+pathlib>=1.0.1
